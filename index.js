@@ -2,7 +2,7 @@ const TelegramBot = require('node-telegram-bot-api');
 const ytSearch = require('yt-search');
 
 // Replace with your real Telegram bot token
-const token = 'YOUR_TELEGRAM_BOT_TOKEN';
+const token = '7503476485:AAEeqU3QJFefjIjE1eBDCZ9WXjbeBEzt_Ao';
 
 const bot = new TelegramBot(token, { polling: true });
 
